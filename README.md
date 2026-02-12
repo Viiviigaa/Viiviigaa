@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Victor Villalta Gallego</h1>
-<h3 align="center">Un futuro desarrollador junior, actualmente me encuentro terminando mis estudios como desarrollador y trabajando a jornada parcial.</h3>
+<h3 align="center">Soy un futuro desarrollador junior, actualmente me encuentro terminando mis estudios como desarrollador y trabajando a jornada parcial. Mi intención es ser un desarrollador Full Stacked aunque me llama más la atención el Front</h3>
 
 - 🌱 Actualmente estoy aprendiendo VUE y Bootsrap
 
