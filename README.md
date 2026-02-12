@@ -1,11 +1,9 @@
 <h1 align="center">Hola soy Victor Villalta Gallego</h1>
-### 🚀 Futuro Desarrollador Full Stack | Enfocado en Frontend
-<h3 align="center">Soy un futuro desarrollador junior, actualmente combino mi formación con trabajo a jornada parcial. Le tengo un cariño especial al FrontEnd pero estoy enfocado en todo</h3>
-### 
+🚀 Futuro Desarrollador Full Stack | Enfocado en Frontend
+<h3 align="center">Soy un futuro desarrollador junior, actualmente combino mi formación con trabajo a jornada parcial. Le tengo un cariño especial al FrontEnd pero estoy enfocado en todo</h3> 
 - 📚 Aprendiendo actualmente:
   - VUE.JS 
-  - Bootstrap
-  
+  - Bootstrap  
 - 📫 Contacto: **viviga04@gmail.com**
 
 <h3 align="left">Contáctame:</h3>
