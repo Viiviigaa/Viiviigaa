@@ -40,5 +40,6 @@
 ### 📊 Actividad en GitHub:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="GitHub Stats
+<h4><a href="https://github.com/Viiviigaa/GestionCursosProfesores">Gestión de cursos del profesorado</a>con funcionalidades como usuario base y como administrador en una aplicación web</h4>
 
 
