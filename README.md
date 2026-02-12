@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Victor Villalta Gallego</h1>
 <h3 align="center">Un futuro desarrollador junior, actualmente me encuentro terminando mis estudios como desarrollador y trabajando a jornada parcial.</h3>
 
-- 🌱 Actualmente estoy aprendiendo VUE
+- 🌱 Actualmente estoy aprendiendo VUE y Bootsrap
 
 - 📫 Contacto: **viviga04@gmail.com**
 
